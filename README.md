@@ -9,4 +9,5 @@ Projects: A display of my projects with descriptions.
 
 Contact: A way for visitors to get in touch.
 
-"C:\Users\bshri\Videos\Screen Recordings\Screen Recording 2025-04-18 182322.mp4"
+<a><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width=500px h/>
+</a>
