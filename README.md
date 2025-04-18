@@ -4,7 +4,9 @@ This portfolio website is a showcase of my web development skills and projects, 
 Home: A brief introduction with a call to action.
 
 About: Information about my background and skills.
+
 Projects: A display of my projects with descriptions.
+
 Contact: A way for visitors to get in touch.
 
 ![Screenshot 2025-04-18 183944](https://github.com/user-attachments/assets/655ea576-d6fb-493e-8dd1-fe385a97236e)
